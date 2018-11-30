@@ -1,5 +1,5 @@
 # Socket.io Library for v1.x and v2.x (Hacked up for arduino-node socket testing)
-****This was hacked up to temporarily support: https://github.com/ryan-peirce/ArduinoSocketTest. This should be used for nothing else!
+****This was hacked up to temporarily support: https://github.com/A-Team-IOT/Arduino-Socket-Test. This should be used for nothing else!
 
 
 
